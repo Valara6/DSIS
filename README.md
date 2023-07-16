@@ -1,7 +1,7 @@
 # DSIS homework
 ## Введение
 
-в качестве выбокри была выбрана 'List of Top Data Breaches (2004 - 2021)'(https://www.kaggle.com/datasets/hishaamarmghan/list-of-top-data-breaches-2004-2021)
+В качестве выбокри была выбрана 'List of Top Data Breaches (2004 - 2021)'(https://www.kaggle.com/datasets/hishaamarmghan/list-of-top-data-breaches-2004-2021)
 
 ## Ход работы
 
